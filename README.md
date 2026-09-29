@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**Ldonc/Ldonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software na FIAP**
 
-Here are some ideas to get you started:
+💻 Tenho maior familiaridade com **Python** e estou me aprofundando em **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+
+Python | Java | JavaScript | TypeScript | React | HTML | CSS
+
+### Atualmente estudando
+
+Java | Python | Programação Orientada a Objetos
