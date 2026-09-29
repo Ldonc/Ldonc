@@ -10,4 +10,4 @@ Python | Java | JavaScript | TypeScript | React | HTML | CSS
 
 ### Atualmente estudando
 
-Java | Python | Programação Orientada a Objetos
+Java | Programação Orientada a Objetos
